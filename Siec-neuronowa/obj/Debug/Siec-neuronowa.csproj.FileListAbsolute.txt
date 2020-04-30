@@ -1,0 +1,7 @@
+C:\Users\zosta\source\repos\sem4\SSI\Siec-neuronowa\Siec-neuronowa\bin\Debug\Siec-neuronowa.exe.config
+C:\Users\zosta\source\repos\sem4\SSI\Siec-neuronowa\Siec-neuronowa\bin\Debug\Siec-neuronowa.exe
+C:\Users\zosta\source\repos\sem4\SSI\Siec-neuronowa\Siec-neuronowa\bin\Debug\Siec-neuronowa.pdb
+C:\Users\zosta\source\repos\sem4\SSI\Siec-neuronowa\Siec-neuronowa\obj\Debug\Siec-neuronowa.csprojAssemblyReference.cache
+C:\Users\zosta\source\repos\sem4\SSI\Siec-neuronowa\Siec-neuronowa\obj\Debug\Siec-neuronowa.csproj.CoreCompileInputs.cache
+C:\Users\zosta\source\repos\sem4\SSI\Siec-neuronowa\Siec-neuronowa\obj\Debug\Siec-neuronowa.exe
+C:\Users\zosta\source\repos\sem4\SSI\Siec-neuronowa\Siec-neuronowa\obj\Debug\Siec-neuronowa.pdb
